@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\SistemaInventario.bundle.scp.css"
     },
     {
+      "Id": "C:\\Sistemas\\SistemaInventario\\SistemaInventario\\wwwroot\\Imagenes\\Producto\\38ce3341-7f53-4c1b-b6dd-91d7b71ee4a4.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Producto\\38ce3341-7f53-4c1b-b6dd-91d7b71ee4a4.JPG"
+    },
+    {
+      "Id": "C:\\Sistemas\\SistemaInventario\\SistemaInventario\\wwwroot\\Imagenes\\Producto\\a5296768-83f1-414c-9728-20bc29e8b3a1.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Producto\\a5296768-83f1-414c-9728-20bc29e8b3a1.JPG"
+    },
+    {
+      "Id": "C:\\Sistemas\\SistemaInventario\\SistemaInventario\\wwwroot\\Imagenes\\Producto\\dccd4362-7ba1-4e25-829e-1ffe61577377.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Producto\\dccd4362-7ba1-4e25-829e-1ffe61577377.JPG"
+    },
+    {
       "Id": "C:\\Sistemas\\SistemaInventario\\SistemaInventario\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -23,6 +35,10 @@
     {
       "Id": "C:\\Sistemas\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Sistemas\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Sistemas\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

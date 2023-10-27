@@ -305,6 +305,7 @@ C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNe
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -354,6 +355,7 @@ C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.Visua
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\NuGet.Common.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\NuGet.Configuration.dll
 C:\Sistemas\SistemaInventario\SistemaInventario\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
