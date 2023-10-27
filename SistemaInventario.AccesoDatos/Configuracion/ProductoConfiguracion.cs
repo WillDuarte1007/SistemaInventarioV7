@@ -37,8 +37,6 @@ namespace SistemaInventario.AccesoDatos.Configuracion
             builder.HasOne(x =>x.Padre).WithMany()
                 .HasForeignKey(x => x.PadreId)
                 .OnDelete(DeleteBehavior.NoAction); 
-
-
         }
     }
 }

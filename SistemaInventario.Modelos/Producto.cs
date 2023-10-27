@@ -17,7 +17,7 @@ namespace SistemaInventario.Modelos
         [MaxLength(60)]
         public string NumeroSerie { get; set; }
 
-        [Required(ErrorMessage = "Descripcion es Requerido")]
+        [Required(ErrorMessage = "Descripción es Requerido")]
         [MaxLength(60)]
         public string Descripcion { get; set; }
 
